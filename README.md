@@ -1,6 +1,6 @@
 # TAT CA
 
-_TODO_
+_TODO_  
 ~~1. Build structs for pending and ton to-do items.~~  
 2. Build a factory that enables the structs to be built in the to_do module.  
 3. Build traits that enable a struct to delete, create, edit, and get the to-do items.  
