@@ -1,7 +1,6 @@
 pub mod structs;
-
-use structs::done::Done;
-use structs::pending::Pending;
+pub use structs::done::Done;
+pub use structs::pending::Pending;
 
 pub enum ItemTypes {
     Pending(Pending),

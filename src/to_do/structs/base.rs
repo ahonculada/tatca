@@ -1,8 +1,11 @@
+use serde::Serialize;
+
 /// This struct defines the key attributes for a to do struct.
 ///
 /// # Attributes
 /// * title (String): the title of the to do item
 /// * status (String): the status of the to do item
+#[derive(Serialize)]
 pub struct Base {
     pub title: String,
     pub status: String
