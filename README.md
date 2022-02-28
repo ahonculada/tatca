@@ -20,3 +20,7 @@
 ~~15. Build a button rendering function in JS based off item data from the ID.~~  
 ~~16. Build and API call function in JS to talk to the backend.~~  
 ~~17. Build the get, delete, edit, and create function in JavaScript for our button to use.~~  
+18. Add CSS tags to our HTML file.  
+19. Create a bass CSS file for the whole app.  
+20. Create a CSS file for our main view.  
+21. Update our Rust crate to serve the CSS and JavaScript.  
