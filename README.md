@@ -24,3 +24,8 @@
 ~~19. Create a bass CSS file for the whole app.~~  
 ~~20. Create a CSS file for our main view.~~  
 ~~21. Update our Rust crate to serve the CSS and JavaScript.~~  
+~~22. Create user data models with relationships with other tables with unique constraints of certain fields via database migrations.~~  
+23. Hashing and checking passwords, and JSON Web Tokens.  
+24. Loggin users in and out of the app.  
+25. Storing auth credentials in the browser and passing them with every API call.  
+26. Managing user sessions.  
